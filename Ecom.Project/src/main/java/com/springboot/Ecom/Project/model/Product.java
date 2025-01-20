@@ -4,11 +4,11 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.Generated;
+//import lombok.Generated;
 import lombok.NoArgsConstructor;
 
 import java.math.BigDecimal;
-import java.security.Identity;
+//import java.security.Identity;
 import java.util.Date;
 
 @Entity
